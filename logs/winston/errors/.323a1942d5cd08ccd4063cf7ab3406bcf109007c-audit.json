@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\.323a1942d5cd08ccd4063cf7ab3406bcf109007c-audit.json",
+    "files": [
+        {
+            "date": 1713851436379,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-23-04-11-error.log",
+            "hash": "3a2328d814d479bd4d6d536f62fa4b6448dd39b22db53e4d37574f7897c109f8"
+        },
+        {
+            "date": 1713854260213,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-23-04-12-error.log",
+            "hash": "525424f27259c1f828320f35ba7d81a814c38b123f2f2f4652fa23fdbcd346cf"
+        },
+        {
+            "date": 1713967513553,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-24-04-20-error.log",
+            "hash": "7a355f7061509c0f466fffa0f84163f3fac84ff273489c246cab5a05a62a743e"
+        },
+        {
+            "date": 1714065668785,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-25-04-23-error.log",
+            "hash": "29f0cce343236074ea568cb00b16d1ff47125d90062600112e8c21dc4faff5f3"
+        },
+        {
+            "date": 1714104566754,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-04-10-error.log",
+            "hash": "d689fdb378f7bb3499fe3a4ab8094503ea5bade320b9e0ae27fe3ea0087884ea"
+        },
+        {
+            "date": 1714143525169,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-04-20-error.log",
+            "hash": "dc1c9db227c9f15005861d7a22bc8f326e7c0f27fd2df1364fdc0ab2b50d7e0a"
+        },
+        {
+            "date": 1714145980545,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-04-21-error.log",
+            "hash": "58916890e18c26af1fb85c2bc6d43fae2b2c59d5d6b19235c7248ed21e5e3308"
+        },
+        {
+            "date": 1714154079212,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-04-23-error.log",
+            "hash": "a202b090f0c0c2e3321c6880eb698ccb79714761661bd5b66d958d87c1226e86"
+        }
+    ],
+    "hashType": "sha256"
+}

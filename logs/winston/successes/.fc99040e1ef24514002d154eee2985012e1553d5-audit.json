@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\.fc99040e1ef24514002d154eee2985012e1553d5-audit.json",
+    "files": [
+        {
+            "date": 1713851436376,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-23-04-11-success.log",
+            "hash": "ce5e638ec43c4033359ab65d84fb1ea6f9a774bfaab80a84c539d6a15924863e"
+        },
+        {
+            "date": 1713854375452,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-23-04-12-success.log",
+            "hash": "f021e444f0d159bcedd39275b16ace90ff1c8c67d8aaff33a4aa0efbc5757dcf"
+        },
+        {
+            "date": 1713967513540,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-24-04-20-success.log",
+            "hash": "4e4362a77e938a4b46bec1e0ad9238997236341d353862b7eb8524481d0ef443"
+        },
+        {
+            "date": 1714065668772,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-25-04-23-success.log",
+            "hash": "b1c52229b399966b1deddb90bd2d64829d42a1f9cc47d9afc44572662a837a04"
+        },
+        {
+            "date": 1714104566742,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-10-success.log",
+            "hash": "de5885ff02fc644146ae3a9a9c37ef55158d06268efe0d9d958f7770bcf899bb"
+        },
+        {
+            "date": 1714143525166,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-20-success.log",
+            "hash": "7f0e60721764b9194c6f292407615c137ccd58403f5a88fea5045d008d46561b"
+        },
+        {
+            "date": 1714145980542,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-21-success.log",
+            "hash": "f1de59b346b3591f076d6f9e2ae100faa6194d2a49caea0ffda3c6f1cd8427e2"
+        },
+        {
+            "date": 1714154079209,
+            "name": "F:\\anik-work\\health-care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-26-04-23-success.log",
+            "hash": "0781d854c256464467f8c0940b87868b7a81510f827c389f5d5cb7c48b68bca3"
+        }
+    ],
+    "hashType": "sha256"
+}
